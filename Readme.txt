@@ -12,7 +12,10 @@ This Script helps you with
 - Auto talk with Npcs (Shift + Space) 
 - Fast exit (MButton)
 
-Feel free to edit the code as you wish and set it up that it works with you.
+/// Important ///
+
+- You need basic info of .ahk to change the keys, i mean rly basic stuff, use this site to know which key you can use --> https://www.autohotkey.com/docs/KeyList.htm
+- For the Sprint, just find out how long you sprint (In my case 8 Sec) and write it in the code, ive marked it.
 
 /// Known bugs ///
 
