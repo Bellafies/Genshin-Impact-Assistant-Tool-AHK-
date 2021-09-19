@@ -1,6 +1,6 @@
 # Genshin-Impact-Assistant-Tool-AHK-
 
-Ive been using this Script since ive started the game, so dont fear a ban. 
+Ive been using this Script since ive started the game, so dont fear a ban. (Im still playing)
 I just got tired from the clicking and spamming the buttons and some other problems that you might also have. 
 
 This Script helps you with
