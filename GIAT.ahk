@@ -1,5 +1,7 @@
 ﻿; # So its works fine in Genshin -------------------------------------------------------------------------------------------------------------------------------
 
+; https://github.com/Bellafies
+
 #UseHook
 #KeyHistory, 0
 #HotKeyInterval 1
